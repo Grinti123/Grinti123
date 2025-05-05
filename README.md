@@ -1,5 +1,6 @@
 ![github-header-image](https://github.com/user-attachments/assets/2dd2ec62-3edc-419c-ac99-a47bfcb6ad29)
-Highly motivated and adaptable Information Systems student at Indraprasta PGRI University with a strong interest in technology and programming.
+
+# Highly motivated and adaptable Information Systems student at Indraprasta PGRI University with a strong interest in technology and programming.
 
 
 ## 🌐 Socials:
